@@ -1,0 +1,12 @@
+Uptlax/PracticaSerializacion/Name.java
+ Uptlax.PracticaSerializacion.Name
+Uptlax/PracticaSerializacion/Friend.java
+ Uptlax.PracticaSerializacion.Friend
+Uptlax/PracticaSerializacion/Main.java
+ Uptlax.PracticaSerializacion.Main
+Uptlax/PracticaSerializacion/Personas.java
+ Uptlax.PracticaSerializacion.Personas
+Uptlax/PracticaSerializacion/Archivo.java
+ Uptlax.PracticaSerializacion.Archivo
+Uptlax/PracticaSerializacion/Persona.java
+ Uptlax.PracticaSerializacion.Persona
