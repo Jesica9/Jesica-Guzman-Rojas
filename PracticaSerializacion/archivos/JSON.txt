@@ -1,5 +1,5 @@
 {
-"personas" :jesica
+"personas" :
 [
   {
     "_id": "605bd44c6c0c886033c4f2a2",
